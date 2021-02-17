@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PuttyWrapper": {
+      "commandName": "Project",
+      "commandLineArgs": "-c azetio"
+    }
+  }
+}
